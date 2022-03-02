@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oaIx4s95RmqVFp7m4YGyE8Qr0Sk1edyJBQjaq9pEnn+Eu3+zL3unTOAZHVSldu/evEBkQmv0cZZVJ5pPbr+PsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Иван\\RiderProjects\\lab-1\\BackupsExtra\\BackupsExtra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Иван\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

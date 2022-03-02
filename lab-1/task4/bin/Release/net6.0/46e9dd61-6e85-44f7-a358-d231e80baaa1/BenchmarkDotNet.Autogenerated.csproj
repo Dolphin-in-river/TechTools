@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <ImportDirectoryBuildProps>false</ImportDirectoryBuildProps>
+    <ImportDirectoryBuildTargets>false</ImportDirectoryBuildTargets>
+    <AssemblyTitle>46e9dd61-6e85-44f7-a358-d231e80baaa1</AssemblyTitle>
+    <TargetFramework>net6.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>46e9dd61-6e85-44f7-a358-d231e80baaa1</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <OutputPath>bin\Release</OutputPath>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <UseSharedCompilation>false</UseSharedCompilation>
+    <CodeAnalysisRuleSet></CodeAnalysisRuleSet>
+    <Deterministic>true</Deterministic>
+    <!-- needed for custom build configurations (only "Release" builds are optimized by default) -->
+    <Optimize Condition=" '$(Configuration)' != 'Debug' ">true</Optimize>
+    
+    <!-- we set LangVersion after  which might contain LangVersion copied from the benchmarks project -->
+    <LangVersion Condition="'$(LangVersion)' == '' Or ($([System.Char]::IsDigit('$(LangVersion)', 0)) And '$(LangVersion)' &lt; '7.3')">latest</LangVersion>
+    <AppendTargetFrameworkToOutputPath>true</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="46e9dd61-6e85-44f7-a358-d231e80baaa1.notcs" Exclude="bin\**;obj\**;**\*.xproj;packages\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Иван\RiderProjects\lab-1\task4\task4.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+<ServerGarbageCollection>false</ServerGarbageCollection>
+<ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+</PropertyGroup>
+
+
+</Project>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DfsAndBfs</id>
+    <version>3.0.0</version>
+    <authors>IvanHryakow</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Иван\RiderProjects\lab-1\task3\bin\Debug\net6.0\task3.runtimeconfig.json" target="lib\net6.0\task3.runtimeconfig.json" />
+    <file src="C:\Users\Иван\RiderProjects\lab-1\task3\bin\Debug\net6.0\task3.dll" target="lib\net6.0\task3.dll" />
+  </files>
+</package>

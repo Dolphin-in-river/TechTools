@@ -1,0 +1,4 @@
+JMH S 26 Benchmark.ExecuteBenchmark S 55 Benchmark.generated.ExecuteBenchmark_BubbleSort_jmhTest S 10 BubbleSort S 11 AverageTime E A 1 1 1 E I 1 0 E E I 1 1 E E I 1 1 I 1 0 E E E E M 1 5 value 3 4 1000 5 10000 6 100000 U 11 NANOSECONDS E E 
+JMH S 26 Benchmark.ExecuteBenchmark S 54 Benchmark.generated.ExecuteBenchmark_MergeSort_jmhTest S 9 MergeSort S 11 AverageTime E A 1 1 1 E I 1 0 E E I 1 1 E E I 1 1 I 1 0 E E E E M 1 5 value 3 4 1000 5 10000 6 100000 U 11 NANOSECONDS E E 
+JMH S 26 Benchmark.ExecuteBenchmark S 57 Benchmark.generated.ExecuteBenchmark_StandardSort_jmhTest S 12 StandardSort S 11 AverageTime E A 1 1 1 E I 1 0 E E I 1 1 E E I 1 1 I 1 0 E E E E M 1 5 value 3 4 1000 5 10000 6 100000 U 11 NANOSECONDS E E 
+JMH S 26 Benchmark.ExecuteBenchmark S 54 Benchmark.generated.ExecuteBenchmark_QuickSort_jmhTest S 9 QuickSort S 11 AverageTime E A 1 1 1 E I 1 0 E E I 1 1 E E I 1 1 I 1 0 E E E E M 1 5 value 3 4 1000 5 10000 6 100000 U 11 NANOSECONDS E E 

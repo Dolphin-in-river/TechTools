@@ -1,0 +1,15 @@
+C:\Users\Иван\RiderProjects\lab-1\lab-1\bin\Debug\net6.0\lab-1.exe
+C:\Users\Иван\RiderProjects\lab-1\lab-1\bin\Debug\net6.0\lab-1.deps.json
+C:\Users\Иван\RiderProjects\lab-1\lab-1\bin\Debug\net6.0\lab-1.runtimeconfig.json
+C:\Users\Иван\RiderProjects\lab-1\lab-1\bin\Debug\net6.0\lab-1.dll
+C:\Users\Иван\RiderProjects\lab-1\lab-1\bin\Debug\net6.0\ref\lab-1.dll
+C:\Users\Иван\RiderProjects\lab-1\lab-1\bin\Debug\net6.0\lab-1.pdb
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\lab-1.csproj.AssemblyReference.cache
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\lab-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\lab-1.AssemblyInfoInputs.cache
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\lab-1.AssemblyInfo.cs
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\lab-1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\lab-1.dll
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\ref\lab-1.dll
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\lab-1.pdb
+C:\Users\Иван\RiderProjects\lab-1\lab-1\obj\Debug\net6.0\lab-1.genruntimeconfig.cache

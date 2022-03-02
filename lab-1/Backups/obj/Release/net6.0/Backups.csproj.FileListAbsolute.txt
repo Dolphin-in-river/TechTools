@@ -1,0 +1,15 @@
+C:\Users\Иван\RiderProjects\lab-1\Backups\bin\Release\net6.0\Backups.exe
+C:\Users\Иван\RiderProjects\lab-1\Backups\bin\Release\net6.0\Backups.deps.json
+C:\Users\Иван\RiderProjects\lab-1\Backups\bin\Release\net6.0\Backups.runtimeconfig.json
+C:\Users\Иван\RiderProjects\lab-1\Backups\bin\Release\net6.0\Backups.dll
+C:\Users\Иван\RiderProjects\lab-1\Backups\bin\Release\net6.0\ref\Backups.dll
+C:\Users\Иван\RiderProjects\lab-1\Backups\bin\Release\net6.0\Backups.pdb
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\Backups.csproj.AssemblyReference.cache
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\Backups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\Backups.AssemblyInfoInputs.cache
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\Backups.AssemblyInfo.cs
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\Backups.csproj.CoreCompileInputs.cache
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\Backups.dll
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\ref\Backups.dll
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\Backups.pdb
+C:\Users\Иван\RiderProjects\lab-1\Backups\obj\Release\net6.0\Backups.genruntimeconfig.cache

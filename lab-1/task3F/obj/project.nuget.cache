@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOmKz0Ccs7UR8MNSJyBFe8vUxQ+qZ3WMKfjzGOHGpSaPxSklTXCIDMq+CVnSyTkMYuvq2Ziwh7Q3T3xCLDMMRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Иван\\RiderProjects\\lab-1\\task3F\\task3F.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Иван\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\Иван\\.nuget\\packages\\task3\\2.0.1\\task3.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

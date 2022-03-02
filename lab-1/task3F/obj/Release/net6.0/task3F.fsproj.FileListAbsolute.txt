@@ -1,0 +1,3 @@
+C:\Users\Иван\RiderProjects\lab-1\task3F\obj\Release\net6.0\task3F.fsproj.AssemblyReference.cache
+C:\Users\Иван\RiderProjects\lab-1\task3F\obj\Release\net6.0\task3F.AssemblyInfoInputs.cache
+C:\Users\Иван\RiderProjects\lab-1\task3F\obj\Release\net6.0\task3F.AssemblyInfo.fs
