@@ -486,13 +486,12 @@ namespace task4
 }
 ```
 Проанализируем полученные результаты.
-![img.png](TechTools/CSharpBenchmark.png)
-//![img.png](C:\Users\Иван\TechTools\CSharpBenchmark.png)
+![text](https://github.com/Dolphin-in-river/TechTools/CSharpBenchmark.png)
 
 Видим, что стандартная сортировка является самой быстрой из представленных, а bubble самой медленной.
 После стандартной сортировки идет QuickSort, затем Merge. Также бенчмарк показал, что объем памяти выделенной получился у 3 сортировок одинаковым, а у Merge на порядок больше.
-![img_1.png](C:\Users\Иван\TechTools\StanadardAndMerge.png)
-![img_2.png](C:\Users\Иван\TechTools\QuickSortBubble.png)
+![text](https://github.com/Dolphin-in-river/TechTools/StanadardAndMerge.png)
+![text](https://github.com/Dolphin-in-river/TechTools/QuickSortBubble.png)
 Чем ближе синяя полоска (кол-во итераций) будет к оранжевой, тем более быстрыми является алгоритм. На данных графиках видно, что StandardSort и QuickSort являются самыми быстрыми, затем идет Merge, замыкает BubbleSort.
 Таким образом, тесты показывают, что реализация 3 из 4 алгоритмов имеют достаточно приемлемое масштабирование.
 
@@ -568,7 +567,7 @@ public class ExecuteBenchmark {
 }
 ```
 
-![img_3.png](C:\Users\Иван\TechTools\JavaBenchmark.jfif)
+![text](https://github.com/Dolphin-in-river/TechTools/JavaBenchmark.jfif)
 Анализ результатов:
 Самым быстрой оказалась стандартная сортировка, затем идет Quick, Merge и замыкает Bubble.
 Эти результаты корелируются с оценкой сложности этих алгоритмов.
