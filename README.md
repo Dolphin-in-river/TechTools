@@ -568,6 +568,7 @@ public class ExecuteBenchmark {
 }
 ```
 ![alt text](https://github.com/Dolphin-in-river/TechTools/blob/main/JavaBenchmark.jfif?raw=true)
+    
 Анализ результатов:
 Самым быстрой оказалась стандартная сортировка, затем идет Quick, Merge и замыкает Bubble.
 Эти результаты корелируются с оценкой сложности этих алгоритмов.
