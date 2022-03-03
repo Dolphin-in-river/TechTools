@@ -26,7 +26,7 @@ extern "C"
         return firstElement + secondElement;
     }
 }
-``` {.cpp}
+```
  
 
 Java / C#:
@@ -44,10 +44,8 @@ public class MyClass {
         System.out.println(new MyClass().AddTwoElements(a, b));
     }
 }
-``` Java
 
 C#:
-```
 using System;
 using System.Runtime.InteropServices;
 
@@ -66,7 +64,7 @@ namespace lab_1
         }
     }   
 }
-   ``` C#
+   ```
 
 ##### Особенности интеропа в Java:
 
@@ -125,7 +123,7 @@ object SecondTask {
     println(s)
   }
 }
-``` Scala
+```
 Создадим новый класс на Java в том же самом  и вызовем данный код. Код успешно компилируется и корректно работает.
 ```
 package SecondTask;
