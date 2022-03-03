@@ -486,7 +486,7 @@ namespace task4
 }
 ```
 Проанализируем полученные результаты.
-![alt text](TechTools/CSharpBenchmark.png " ")
+![img.png](TechTools/CSharpBenchmark.png)
 //![img.png](C:\Users\Иван\TechTools\CSharpBenchmark.png)
 
 Видим, что стандартная сортировка является самой быстрой из представленных, а bubble самой медленной.
