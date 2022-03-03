@@ -486,8 +486,8 @@ namespace task4
 }
 ```
 Проанализируем полученные результаты.
-
-![img.png](C:\Users\Иван\TechTools\CSharpBenchmark.png)
+![alt text](TechTools/CSharpBenchmark.png " ")
+//![img.png](C:\Users\Иван\TechTools\CSharpBenchmark.png)
 
 Видим, что стандартная сортировка является самой быстрой из представленных, а bubble самой медленной.
 После стандартной сортировки идет QuickSort, затем Merge. Также бенчмарк показал, что объем памяти выделенной получился у 3 сортировок одинаковым, а у Merge на порядок больше.
