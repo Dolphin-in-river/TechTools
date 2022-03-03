@@ -26,7 +26,7 @@ extern "C"
         return firstElement + secondElement;
     }
 }
-``` C++
+``` (.cpp)
  
 
 Java / C#:
