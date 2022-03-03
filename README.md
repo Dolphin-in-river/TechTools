@@ -496,7 +496,7 @@ namespace task4
 На данных графиках видно, что StandardSort и QuickSort являются самыми быстрыми, затем идет Merge, замыкает BubbleSort.
 Также заметим, что реализация 3 из 4 алгоритмов имеют достаточно приемлемое масштабирование.
 
-######Java
+#### Java
 
 Для оценки алгоритмов в Java я использовал JMH(Java Microbenchmarking Harness)
 Данный бенчмарк позволяет писать аннотацию к функциям. Так, например, @Fork определяет количество прогревочных запусков и количество настоящих, прямо влияющих на результат.
@@ -567,7 +567,7 @@ public class ExecuteBenchmark {
     }
 }
 ```
-![alt text](https://github.com/Dolphin-in-river/TechTools/blob/main/JavaBenchmark.png?raw=true)
+![alt text](https://github.com/Dolphin-in-river/TechTools/blob/main/JavaBenchmark.jfif?raw=true)
 Анализ результатов:
 Самым быстрой оказалась стандартная сортировка, затем идет Quick, Merge и замыкает Bubble.
 Эти результаты корелируются с оценкой сложности этих алгоритмов.
