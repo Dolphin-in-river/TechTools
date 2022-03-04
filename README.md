@@ -483,7 +483,7 @@ namespace task4
 ```
 Проанализируем полученные результаты.
 
-![alt text](https://github.com/is-tech-y24-1/Dolphin-in-river/blob/tree/lab-1/HelloWorld/CSharpBenchmark.png?raw=true)
+![alt text](https://github.com/Dolphin-in-river/TechTools/blob/main/CSharpBenchmark.png?raw=true)
 
 Видим, что стандартная сортировка является самой быстрой из представленных, а BubbleSort самой медленной.
 После стандартной сортировки идет QuickSort, затем Merge. Также бенчмарк показал, что объем выделенной памяти получился у 3 сортировок одинаковым, а у Merge на порядок больше.
